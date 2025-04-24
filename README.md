@@ -1,4 +1,4 @@
-# CCDEPLRL_EXERCISES
+# Deep Learning — Exercises
 
 This repository contains a collection of exercises completed in **Google Colab** for a Deep Learning course. The course introduces the fundamentals of deep neural networks and explores their applications across various artificial intelligence tasks.
 
